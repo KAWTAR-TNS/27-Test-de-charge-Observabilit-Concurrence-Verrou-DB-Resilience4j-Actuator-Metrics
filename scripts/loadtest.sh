@@ -1,10 +1,4 @@
 #!/usr/bin/env bash
-# Script de Test de Charge - Bash
-# Teste la concurrence sur les microservices book-service
-#
-# @author Hamza Aglagal
-# @organization EMSI
-# @date 2025
 
 set -euo pipefail
 

@@ -1,9 +1,3 @@
-# Script de Test de Charge - PowerShell
-# Teste la concurrence sur les microservices book-service
-#
-# @author Hamza Aglagal
-# @organization EMSI
-# @date 2025
 
 param(
   [int]$BookId = 1,
